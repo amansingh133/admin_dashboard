@@ -1,10 +1,14 @@
 # FILES TO BE IGNORED FROM SERVER
 
+/server/node_modules
+/server/dist
+/server/.env
 
 # FILES TO BE IGNORED FROM APP
 
 # dependencies
 /app/node_modules
+/app/.env
 /app/.pnp
 /app/.pnp.js
 
